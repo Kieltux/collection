@@ -10,7 +10,7 @@ License:        NonFree
 Group:          Productivity/Networking
 Url:            https://www.readynas.com
 Source:         https://www.readynas.com/contributed/mdgm/%{name}/%{name}_%{version}_amd64.deb
-Patch1:         fix_opensuse_raidar.desktop.diff
+Patch1:         fix_raidar.desktop.diff
 BuildRequires:  fdupes
 BuildRequires:  hicolor-icon-theme
 BuildRequires:  update-desktop-files
